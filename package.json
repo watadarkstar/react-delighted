@@ -7,7 +7,19 @@
   "author": "Adrian Carolli",
   "license": "MIT",
   "private": true,
+  "scripts": {
+    "lint": "eslint .",
+    "prettier": "find . -name node_modules -prune -or -name '*.js' -print | xargs prettier --write"
+  },
   "devDependencies": {
+    "eslint": "^4.12.1",
+    "eslint-plugin-react": "^7.5.1",
     "prettier": "^1.8.2"
+  },
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-native": "^0.50.4",
+    "react-redux": "^5.0.6",
+    "redux": "^3.7.2"
   }
 }
