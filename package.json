@@ -1,10 +1,10 @@
 {
-  "name": "react-delighted",
+  "name": "react-native-delighted",
   "version": "1.0.0",
-  "description": "Unofficial React.js integration for collecting Net Promotor Score with Delighted.",
+  "description": "Unofficial React Native integration for collecting Net Promotor Score with Delighted.",
   "main": "index.js",
   "repository": "https://github.com/watadarkstar/react-delighted",
   "author": "Adrian Carolli",
   "license": "MIT",
-  "private": null
+  "private": true
 }
