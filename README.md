@@ -1,6 +1,6 @@
 # React Native Delighted 
 
-Unofficial React Native integration for collecting Net Promotor Score with Delighted.
+Unofficial React Native integration for collecting Net Promotor Score with [Delighted](https://delighted.com/).
 
 ## Install
 
